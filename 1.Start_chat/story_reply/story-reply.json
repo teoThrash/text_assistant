@@ -45,7 +45,7 @@
   },
   {
     "role": "user",
-    "content": "Write a single line for an instagram story reply for a girl asking for an opinion on girls with muscles"
+    "content": "Write a single line for an instagram story reply for a girl who [user input]."
   }
 ]
 
