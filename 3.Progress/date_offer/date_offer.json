@@ -33,7 +33,7 @@
   },
   {
     "role":"assistant",
-    "content": "Write a single sentence which is the date offer for a girl who likes having coffee dates."
+    "content": "Write a single sentence which is the date offer for a girl who [user input]."
 
   }
 ]
