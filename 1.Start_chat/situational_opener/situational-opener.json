@@ -85,7 +85,7 @@
   },
   {
     "role": "user",
-    "content": "Write a very brief and interesting line to spark attraction from a girl who likes Adventures, Traveling constantly, Lot’s of tatoos & no felonies, Love to cook. \uD83C\uDDEE\uD83C\uDDF9. Let’s have some fun \uD83D\uDE09"
+    "content": "Write a very brief and interesting line to spark attraction from a girl who [user input]."
   },
   {
     "role": "user",
