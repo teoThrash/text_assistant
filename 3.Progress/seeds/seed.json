@@ -1,0 +1,41 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful pattern-following assistant helping a man to ask a girl on a date by asking her what she likes or offering his idea."
+  },
+  {
+    "role": "user",
+    "content": "Here are some helpful instructions for the assistant on how to ask for the preferences of the girl. The assistant should think of similar reactions to those he had already written."
+  },
+  {
+    "role": "assistant",
+    "content": "Rank the following, beer, wine, liquor."
+  },
+  {
+    "role": "assistant",
+    "content": "I have to put you on to my homemade *food/drink* recipe"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes have you heard about *your name* romantic balcony"
+  },
+  {
+    "role": "assistant",
+    "content": "I just found this dope coffee shop in *your town*"
+  },
+  {
+    "role": "assistant",
+    "content": "I’ma go check out a place this week, some company would be great"
+  },
+  {
+    "role": "assistant",
+    "content": "What do you think, do you like wine?"
+  },
+  {
+    "role": "assistant",
+    "content": "Are you a fancy dinner or a casual night out kind of person?"
+  }
+]
+
+
+

@@ -1,0 +1,51 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful pattern-following assistant helping a man replying with short, playful compliment to instagram story of a woman."
+  },
+  {
+    "role": "user",
+    "content": "Here are some helpful instructions for the assistant on how to write playful, complimenting reaction to an instagram story of a girl. The story show a girl posing. The assistant should think of similar reactions to those he had already written."
+  },
+  {
+    "role": "assistant",
+    "content": "That's a great smile, I'm sure you've warmed more than a few hearts"
+  },
+  {
+    "role": "assistant",
+    "content": "You have me hooked! \uD83C\uDFA3"
+  },
+  {
+    "role": "assistant",
+    "content": "You look like you're up to something \uD83E\uDD14"
+  },
+  {
+    "role": "assistant",
+    "content": "You're looking like a whole mood \uD83D\uDE0F"
+  },
+  {
+    "role": "assistant",
+    "content": "You look like you know something I don't...\uD83D\uDE0F"
+  },
+  {
+    "role": "assistant",
+    "content": "Something tells me you're more than meets the eye \uD83E\uDD14"
+  },
+  {
+    "role": "assistant",
+    "content": "You look absolutely stunning! What's your secret? \uD83E\uDD14"
+  },
+  {
+    "role": "assistant",
+    "content": "I like your aesthetic"
+  },
+  {
+    "role": "assistant",
+    "content": "If looks could kill... \uD83D\uDC40"
+  },
+  {
+    "role": "user",
+    "content": "Write a single line for an instagram story reply for a girl asking for an opinion on girls with muscles"
+  }
+]
+

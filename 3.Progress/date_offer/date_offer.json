@@ -1,0 +1,42 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful pattern-following assistant helping a man to ask a girl on a date by offering her an activity. The time has already been arranged and the current message is the offer. You are not starting a new chat, just continuing one so the message should NOT start with 'hey'."
+  },
+  {
+    "role": "user",
+    "content": "Here are some helpful instructions for the assistant on how to ask the girl out. The assistant should think of similar reactions to those he had already written. The assistant should make the offer unique and playful/flirty"
+  },
+  {
+    "role": "assistant",
+    "content": "there's this good spot in downtown JC, heard a cute Peruvian boy can take you."
+  },
+  {
+    "role": "assistant",
+    "content": "well, if you’re feeling spontaneous now, rosé and flirting could still be on the cards"
+  },
+  {
+    "role": "assistant",
+    "content": "What about 8 at this place called *your name* romantic balcony?"
+  },
+  {
+    "role": "assistant",
+    "content": " so let’s meet at *place in town* and see where’s good on a Sunday"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm going to do X, would love a good company like you to join me"
+  },
+  {
+    "role": "assistant",
+    "content": "Now I know you're a fan of *sth*, let's go to this spot to enjoy it together."
+  },
+  {
+    "role":"assistant",
+    "content": "Write a single sentence which is the date offer for a girl who likes having coffee dates."
+
+  }
+]
+
+
+

@@ -1,0 +1,41 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful pattern-following assistant helping a man to close his chat over text messages with a girl but also raising her interest in him."
+  },
+  {
+    "role": "user",
+    "content": "Here are some helpful instructions for the assistant on how to close and spark the interest of the girl. The assistant should think of similar reactions to those he had already written."
+  },
+  {
+    "role": "assistant",
+    "content": "I'll go now, it was great chatting with you."
+  },
+  {
+    "role": "assistant",
+    "content": "I'll go work now, money never sleeps, baby."
+  },
+  {
+    "role": "assistant",
+    "content": "I have to do something, but had a great time with you ."
+  },
+  {
+    "role": "assistant",
+    "content": "It was great chatting with you but I've gotta run now."
+  },
+  {
+    "role": "assistant",
+    "content": "I'm going to run some errands now, gotta go"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm doing something quite exciting tonight, I'll have to go now."
+  },
+  {
+    "role": "assistant",
+    "content": "We had a great chat, now it's time to get some work done."
+  }
+]
+
+
+

@@ -1,0 +1,101 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful pattern-following assistant who acts as a man commenting briefly and playfully to some of the specifics from Tinder profile of a woman."
+  },
+  {
+    "role": "user",
+    "content": "Here are some helpful instructions for the assistant on how to write a playful, complimenting reaction to a Tinder profile of a girl. The assistant should tease the girl for specific things in her profile but no need to address every detail. The assistant should think of similar short, playful, teasing phrases to those he had already written."
+  },
+  {
+    "role": "user",
+    "content": "Write a line to start a conversation with a girl who has no instagram bio"
+  },
+  {
+    "role": "assistant",
+    "content": "I like your detailed bio"
+  },
+  {
+    "role": "user",
+    "content": "Write a line to start a conversation with a girl who has tons of selfies and is into cooking"
+  },
+  {
+    "role": "assistant",
+    "content": "I like your selfie collection"
+  },
+  {
+    "role": "user",
+    "content": "Write a line to start a conversation with a girl who is posing with an animal and loves travelling"
+  },
+  {
+    "role": "assistant",
+    "content": "Do you come with the *animal*?"
+  },
+  {
+    "role": "user",
+    "content": "Write a line to start a conversation with a girl who only has one posted picture"
+  },
+  {
+    "role": "assistant",
+    "content": " I like your detailed profile"
+  },
+  {
+    "role": "user",
+    "content": "Write a line to start a conversation with a girl who is smiling in a photo"
+  },
+  {
+    "role": "assistant",
+    "content": "This is the kind of cute, seductive smile I expect to see about 20 mins into our date ;)"
+  },
+  {
+    "role": "user",
+    "content": "Write a line to start a conversation with a girl who you talked to a long time ago"
+  },
+  {
+    "role": "assistant",
+    "content": "Hey stranger"
+  },
+  {
+    "role": "user",
+    "content": "Write a line to start a conversation with a girl who is dressed up in a photo and posing with her bag"
+  },
+  {
+    "role": "assistant",
+    "content": "I see you already have your outfit picked out for our date"
+  },
+  {
+    "role": "assistant",
+    "content": "(no bio) No Bio? What are you keeping from the world?"
+  },
+  {
+    "role": "user",
+    "content": "Write a line to start a conversation with a girl who has a travel photo and loves make up"
+  },
+  {
+    "role": "assistant",
+    "content": "Looks you've already been to some amazing places - where should I take you next?"
+  },
+  {
+    "role": "user",
+    "content": "Write a line to start a conversation with a girl who has a cooking photo and is into fitness"
+  },
+  {
+    "role": "assistant",
+    "content": "Mm, that looks delicious - mind if I join you for dinner?"
+  },
+  {
+    "role": "user",
+    "content": "Write a very brief and interesting line to spark attraction from a girl who likes Adventures, Traveling constantly, Lot’s of tatoos & no felonies, Love to cook. \uD83C\uDDEE\uD83C\uDDF9. Let’s have some fun \uD83D\uDE09"
+  },
+  {
+    "role": "user",
+    "content": "No need to address every detail on her profile."
+  }
+]
+
+
+
+
+
+
+

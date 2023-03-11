@@ -1,0 +1,46 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful pattern-following assistant helping a man to close his chat with a girl by getting her instagram ot phone number."
+  },
+  {
+    "role": "user",
+    "content": "Here are some helpful instructions for the assistant on how to close and get the wanted number or profile of the girl. The assistant should think of similar reactions to those he had already written."
+  },
+  {
+    "role": "assistant",
+    "content": "Shoot me your number and we’ll sort something out"
+  },
+  {
+    "role": "assistant",
+    "content": "I’m #, what’s yours?"
+  },
+  {
+    "role": "assistant",
+    "content": "I think we should take this conversation to the next level - give me your number/social media and let's find out what happens"
+  },
+  {
+    "role": "assistant",
+    "content": "Shoot me your number for romance arrangement purposes"
+  },
+  {
+    "role": "assistant",
+    "content": "Shoot me your number for *activity you’re planning to do* arrangement purposes"
+  },
+
+  {
+    "role": "assistant",
+    "content": "Turn up the heat and share your number - I can guarantee you won't regret it! \uD83D\uDD25"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm planning something special - could I get your number so I can let you in on the details?"
+  },
+  {
+    "role": "assistant",
+    "content": "I had a great time talking with you, now let's make it official - what's your number/insta?"
+  }
+]
+
+
+

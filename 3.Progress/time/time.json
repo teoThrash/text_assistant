@@ -1,0 +1,45 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful pattern-following assistant helping a man to arrange his date with a girl by asking when she is free."
+  },
+  {
+    "role": "user",
+    "content": "Here are some helpful instructions for the assistant on how to ask for the free time of the girl. The assistant should think of similar reactions to those he had already written."
+  },
+  {
+    "role": "assistant",
+    "content": "are you free tomorrow or Thursday?"
+  },
+  {
+    "role": "assistant",
+    "content": "how's Saturday for ya"
+  },
+  {
+    "role": "assistant",
+    "content": "Just out of curiosity, what are you doing tomorrow?"
+  },
+  {
+    "role": "assistant",
+    "content": "sounds good.. are you free this weekend"
+  },
+  {
+    "role": "assistant",
+    "content": "When are you typically free miss?"
+  },
+  {
+    "role": "assistant",
+    "content": "Free Monday or Wednesday after 6?"
+  },
+  {
+    "role": "assistant",
+    "content": "What’s your schedule like?"
+  },
+  {
+    "role": "assistant",
+    "content": "What are you doing this coming week btw? Not certain, but I might be back in town"
+  }
+]
+
+
+
